@@ -1,0 +1,30 @@
+form {
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-around;
+  align-items: center;
+  width: 500px;
+  border: 1px solid black;
+  flex-direction: column;
+}
+
+form > div {
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+form > div > div {
+  margin-right: 20px;
+}
+button {
+  width: 90%;
+  margin-top: 20px;
+}
+
+table {
+  margin: 10px auto;
+  border: teal 1px solid;
+}
