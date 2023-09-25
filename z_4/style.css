@@ -1,0 +1,10 @@
+body {
+  margin: 0 auto;
+  width: 300px;
+  font-size: 20px;
+}
+
+#target {
+  background-color: aqua;
+  color: white;
+}
